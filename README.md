@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently focusing on learning PHP, JS and web development.</p>
+<p align="left">📚 I'm currently focusing on improving my JS, PHP and web development skills in general.</p>
 
 ###
 
