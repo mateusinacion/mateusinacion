@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently focusing on improving my JS, PHP and web development skills in general.</p>
+<p align="left">I'm currently focusing on improving my web development skills, building applications powered by React and Supabase.</p>
 
 ###
 
