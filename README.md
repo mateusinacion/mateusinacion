@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently focusing on improving my web development skills, building applications powered by React and Supabase.</p>
+<p align="left">I'm currently focusing on improving my web development skills, building cloudflare-native applications with Hono.js and React.</p>
 
 ###
 
